@@ -1,0 +1,2 @@
+* figures
+file:fig/3_field_plot.png
