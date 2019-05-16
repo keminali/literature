@@ -1,2 +1,2 @@
 * figures
-file:fig/3_field_plot.png
+file:fig/author_keywords_journals.png
